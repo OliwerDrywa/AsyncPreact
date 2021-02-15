@@ -1,7 +1,7 @@
 # AsyncPreact
 Declarative Promise Handling for Preact
 
-```
+```jsx
 import { h } from 'preact';
 import Async from './Async';
 
