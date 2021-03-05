@@ -1,18 +1,14 @@
 {
-  "name": "AsyncPreact",
-  "version": "1.0.0",
+  "name": "async-preact",
+  "version": "2.0.0",
   "description": "Declarative Promise Handling for Preact",
-  "main": "dist/index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "main": "dist/async-preact.js",
+  "scripts": {},
   "keywords": [],
   "author": "OliwerDrywa",
   "license": "ISC",
   "devDependencies": {
+    "preact": "^10.5.12",
     "typescript": "^4.1.5"
-  },
-  "dependencies": {
-    "preact": "^10.5.12"
   }
 }
